@@ -1,0 +1,6 @@
+{
+  "name": "Sky Chat",
+  "description": "An interactive, visually rich sky-themed chat application that transforms its atmosphere dynamically based on your conversations and inputs like good morning and good night.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
